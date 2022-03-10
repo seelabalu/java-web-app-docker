@@ -13,7 +13,7 @@
 	<description>Maven Webd Project</description>
 
 	<organization>
-		<name>Mithun Technologies</name>
+		<name>Devops desk</name>
 		<url>http://devopsdesk.com/</url>
 	</organization>
 
@@ -101,13 +101,13 @@
 	<!-- <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.235.8.113:8081/repository/flipkart-release/</url>
+	      <name>Devops desk Releases Nexus Repository</name>
+	      <url>http://ec2-13-233-42-110.ap-south-1.compute.amazonaws.com:8081/repository/amazon-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.8.113:8081/repository/flipkart-snapshot/</url>
+	      <name>Devops desk Snapshot Nexus Repository </name>
+	      <url>http://ec2-13-233-42-110.ap-south-1.compute.amazonaws.com/repository/amazon-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement> -->
 	
