@@ -98,7 +98,7 @@
 
 	</dependencies>
 	
-	<!-- <distributionManagement>
+	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Devops desk Releases Nexus Repository</name>
@@ -109,7 +109,7 @@
 	      <name>Devops desk Snapshot Nexus Repository </name>
 	      <url>http://ec2-13-233-42-110.ap-south-1.compute.amazonaws.com/repository/amazon-snapshot/</url>
 	    </snapshotRepository>
-	</distributionManagement> -->
+	</distributionManagement> 
 	
 	<build>
 		<plugins>
