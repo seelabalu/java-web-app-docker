@@ -40,8 +40,10 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
+			<h2>Welcome To DevOps Desk, Builds a better future.</h2>
+			<h3>Trainer Pruthvi Theja (7+ Years of Experience in DevOps)</h3>
+			<h4>Contact @ +91-9490409071 ,+91-9880486222</h4>
+			
 		</div>	
 	</div>
 
