@@ -41,16 +41,15 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To DevOps Desk, Builds a better future.</h2>
-			<h3>Trainer Pruthvi Theja (7+ Years of Experience in DevOps)</h3>
-			<h4>Contact @ +91-9490409071 ,+91-9880486222</h4>
-			
+			<h3>Trainer Pruthvi Theja (7+ Years of Experience in DevOps), Contact @ +91-9490409071 ,+91-9880486222</h3>
+						
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; DevOps Desk 2021</p>
 	</footer>
 </div>
 
