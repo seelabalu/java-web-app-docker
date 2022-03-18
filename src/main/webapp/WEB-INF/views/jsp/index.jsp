@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To DevOps Desk, Builds a better future.</h2>
-			<h3>Trainer Pruthvi Theja (7+ Years of Experience in DevOps), Contact @ +91-9490409071 ,+91-9880486222</h3>
+			<h2>Welcome To DevOps Desk, Builds a better future, Trainer Pruthvi Theja (7+ Years of Experience in DevOps)</h2>
+			<h3>Contact @ +91-9490409071 ,+91-9880486222</h3>
 						
 		</div>	
 	</div>
