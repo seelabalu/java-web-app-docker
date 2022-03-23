@@ -1,11 +1,11 @@
 node{
+   def mavenHome =  tool name: 'apache-maven-3.8.5', type: 'maven'
      
     stage('SCM Checkout'){
         git url: 'https://github.com/seelabalu/java-web-app-docker.git',branch: 'master'
     }
     
     stage(" Maven Clean Package"){
-      def mavenHome =  tool name: 'apache-maven-3.8.5', type: 'maven'
       def mavenCMD = "${mavenHome}/bin/mvn"
       sh "${mavenCMD} clean package"
       
