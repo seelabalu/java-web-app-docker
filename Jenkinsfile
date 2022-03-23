@@ -1,5 +1,5 @@
 node{
-   def mavenHome =  tool name: 'apache-maven-3.8.5', type: 'maven'
+   def mavenHome =  tool name: "Maven-3.8.5", type: "maven"
      
     stage('SCM Checkout'){
         git url: 'https://github.com/seelabalu/java-web-app-docker.git',branch: 'master'
