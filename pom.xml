@@ -104,13 +104,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Devops desk Releases Nexus Repository</name>
-	      <url>http://3.110.143.115:8081/repository/amazon-release/</url>
+	      <name>Dev Releases Nexus Repository</name>
+	      <url>http://3.110.43.119:8081/repository/dev_repo-releaase/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Devops desk Snapshot Nexus Repository </name>
-	      <url>http://3.110.143.115:8081/repository/amazon-snapshot/</url>
+	      <url>http://3.110.43.119:8081/repository/dev_repo-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement> 
 	
