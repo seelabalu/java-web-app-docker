@@ -109,7 +109,7 @@
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Devops desk Snapshot Nexus Repository </name>
+	      <name>Dev Snapshot Nexus Repository </name>
 	      <url>http://3.110.43.119:8081/repository/dev_repo-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement> 
